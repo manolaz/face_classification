@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/anaconda3/bin/python",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 160
+}
